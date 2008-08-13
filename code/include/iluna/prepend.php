@@ -20,6 +20,13 @@ $news_m = array
 	array
 	(
 		'display'=>0,
+		'date'=>'2008年8月13日',
+		'url'=>'',
+		'text'=>'<a href="http://www.tenmono.com/">転職のモノサシ</a>が8月13日発売の日経産業新聞13面に掲載されました。'
+	),
+	array
+	(
+		'display'=>0,
 		'date'=>'2008年8月11日',
 		'url'=>'http://www.tenmono.com/blog_parts/',
 		'text'=>'年収・給料・給与を上場企業から計る「転職のモノサシ」のブログパーツをリリースしました'
@@ -29,7 +36,7 @@ $news_m = array
 		'display'=>0,
 		'date'=>'2008年8月11日',
 		'url'=>'http://www.tenmono.com/',
-		'text'=>'年収・給料・給与を上場企業から計る「転職のモノサシ」をオープンしました<br /><br /><a href="http://www.iluna.co.jp/20080811.pdf">プレスリリースはこちら</a>'
+		'text'=>'年収・給料・給与を上場企業から計る「転職のモノサシ」をオープンしました<br /><br /><a href="http://www.iluna.co.jp/press/20080811.pdf">プレスリリースはこちら</a>'
 	),
 	array
 	(
