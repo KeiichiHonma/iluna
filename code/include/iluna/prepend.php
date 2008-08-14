@@ -20,9 +20,16 @@ $news_m = array
 	array
 	(
 		'display'=>0,
+		'date'=>'2008年8月14日',
+		'url'=>'',
+		'text'=>'IT業界の転職をサポートする「<a href="http://careerzine.jp/">CAREERzine</a>」サイト内で「転職のモノサシ」がアクセスランキング第1位に選ばれました'
+	),
+	array
+	(
+		'display'=>0,
 		'date'=>'2008年8月13日',
 		'url'=>'',
-		'text'=>'<a href="http://www.tenmono.com/">転職のモノサシ</a>が8月13日発売の日経産業新聞13面に掲載されました。'
+		'text'=>'<a href="http://www.tenmono.com/">転職のモノサシ</a>が8月13日発売の日経産業新聞13面に掲載されました'
 	),
 	array
 	(
@@ -37,13 +44,6 @@ $news_m = array
 		'date'=>'2008年8月11日',
 		'url'=>'http://www.tenmono.com/',
 		'text'=>'年収・給料・給与を上場企業から計る「転職のモノサシ」をオープンしました<br /><br /><a href="http://www.iluna.co.jp/press/20080811.pdf">プレスリリースはこちら</a>'
-	),
-	array
-	(
-		'display'=>0,
-		'date'=>'2008年8月8日',
-		'url'=>'',
-		'text'=>'大人のブラックテイストマガジンLUSSWに代表 矢作が紹介されました'
 	),
 	array
 	(
