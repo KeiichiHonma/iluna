@@ -20,6 +20,13 @@ $news_m = array
 	array
 	(
 		'display'=>0,
+		'date'=>'2008年10月14日',
+		'url'=>'http://www.tenmono.com/asp/',
+		'text'=>'年収・給料・給与を上場企業から計る「転職のモノサシASP」を提供開始<br /><br /><a href="'.ILUNAURL.'/press/2008/1014.html">プレスリリースはこちら</a>'
+	),
+	array
+	(
+		'display'=>0,
 		'date'=>'2008年8月18日',
 		'url'=>'',
 		'text'=>'8月4日～8月11日の<a href="http://www.venturenow.jp/news/2008/08/11/1233_005444.html">Venture Now</a> サイト内で「転職のモノサシ」がアクセスランキング第1位に選ばれました'
@@ -50,7 +57,7 @@ $news_m = array
 		'display'=>0,
 		'date'=>'2008年8月11日',
 		'url'=>'http://www.tenmono.com/',
-		'text'=>'年収・給料・給与を上場企業から計る「転職のモノサシ」をオープンしました<br /><br /><a href="http://www.iluna.co.jp/press/20080811.pdf">プレスリリースはこちら</a>'
+		'text'=>'年収・給料・給与を上場企業から計る「転職のモノサシ」をオープンしました<br /><br /><a href="'.ILUNAURL.'/press/2008/pdf/20080811.pdf">プレスリリースはこちら</a>'
 	)
 );
 

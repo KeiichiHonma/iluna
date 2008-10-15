@@ -1,7 +1,7 @@
 <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
 <html>
 <head>
-<title>株式会社iLUNA - お問い合わせ</title>
+<title>株式会社iLUNA(イルナ) - お問い合わせ</title>
 <meta name="robots" content="all" />
 <meta name="keywords" content="" />
 <meta name="description" content="株式会社イルナへのお問い合わせはこちらまで。" />
@@ -27,10 +27,20 @@
 							<td class="bottom_left">
 								{include file="include/bottom_news.inc"}
 							</td>
-							<td class="bottom_bg_white"></td>
-							<td class="bottom_colspan" colspan="2">
-							<div id="title_right"><img alt="" src="img/1_z6.gif">お問い合わせ</div>
-							<div style="margin-left:21px; margin-top:10px "><img alt="" src="img/1_line3.gif"></div>
+							<td class="bottom_colspan" colspan="3">
+							<div id="title_right"><img alt="" src="/img/1_z6.gif">アライアンス</div>
+							<div style="margin-left:21px; margin-top:10px "><img alt="" src="/img/1_line3.gif"></div>
+							  <div id="alliance">
+							  	<div class="img"><img alt="" src="/img/4_p1.jpg"></div>
+								<div class="text">
+								<strong>パートナー様とのアライアンス</strong><br>
+								イルナでは各パートナー様とのアライアンスを推進しております。<br />
+								新規事業の立ち上げにお悩みの方、コンテンツの活用が上手くされていない方、レベニューシェアを模索されている方等、
+								ぜひ一度イルナまでご相談下さい。
+								</div>
+							  </div>
+							<div id="title_right"><img alt="" src="/img/1_z6.gif">お問い合わせ</div>
+							<div style="margin-left:21px; margin-top:10px "><img alt="" src="/img/1_line3.gif"></div>
 							  <div id="about">
 お問い合わせは、<a href="mailto:&#105;&#110;&#102;&#111;&#64;&#105;&#108;&#117;&#110;&#97;&#46;&#99;&#111;&#46;&#106;&#112;">info@iluna.co.jp</a>までメールをお願い致します。
 							  </div>

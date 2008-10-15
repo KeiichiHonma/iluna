@@ -1,10 +1,10 @@
 <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
 <html>
 <head>
-<title>株式会社iLUNA - HOME</title>
+<title>株式会社iLUNA(イルナ) - HOME</title>
 <meta name="robots" content="all" />
 <meta name="keywords" content="" />
-<meta name="description" content="「多様な選択肢の中から選ぶ幸せ」という価値を提供。株式会社イルナはは月（LUNA）のように、ユーザの足元を照らす（illuminate）ことで、ユーザの様々な活動の手助けをします。" />
+<meta name="description" content="「多様な選択肢の中から選ぶ幸せ」という価値を提供。株式会社イルナは月（LUNA）のように、ユーザの足元を照らす（illuminate）ことで、ユーザの様々な活動の手助けをします。" />
 <meta name="generator" content="" />
 <meta http-equiv="content-type" content="text/html; charset=UTF-8">
 {include file="include/header_link.inc"}
@@ -27,10 +27,9 @@
 							<td class="bottom_left">
 								{include file="include/bottom_news.inc"}
 							</td>
-							<td class="bottom_bg"></td>
-							<td class="bottom_right1">
-							  <div id="title_right"><img alt="" src="img/1_z3.gif">会社概要</div>
-							  <div style="margin-left:21px; margin-top:10px "><img alt="" src="img/1_line3.gif"></div>
+							<td class="bottom_right1" colspan="2">
+							  <div id="title_right"><img alt="" src="/img/1_z3.gif">会社概要</div>
+							  <div style="margin-left:21px; margin-top:10px "><img alt="" src="/img/1_line3.gif"></div>
 							  <div id="index_yellow"><strong>社名</strong></div>
 							  <div id="index_contents">株式会社イルナ( iLUNA, Inc. )</div>
 							  <div id="index_yellow"><strong>事業内容</strong></div>
@@ -49,8 +48,8 @@
 
 							</td>
 							<td class="bottom_right2">
-								<div id="title_right"><img alt="" src="img/1_z6.gif">メッセージ</div>
-								<div id="line"><img alt="" src="img/1_line1.gif"></div>
+								<div id="title_right"><img alt="" src="/img/1_z6.gif">メッセージ</div>
+								<div id="line"><img alt="" src="/img/1_line1.gif"></div>
 							  <div class="free_comment">
 株式会社イルナ( iLUNA, Inc. ) は2008年7月設立のベンチャー企業です。
 社名の由来はilluminate(光を当てる)とluna(月)を掛け合わせた造語です。

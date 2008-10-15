@@ -6,8 +6,11 @@
 		alliance.tpl<U>
 		contact.tpl<U>
 		include\
-			base.inc<U>
 			top.inc<U>
 			bottom_news.inc<U>
 			top_news.inc<U>
 			header_link.inc<U>
+		press\
+			2008\
+				index.tpl<U>
+				1014.tpl<U>

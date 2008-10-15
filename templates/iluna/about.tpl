@@ -1,7 +1,7 @@
 <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
 <html>
 <head>
-<title>株式会社iLUNA - iLUNAとは</title>
+<title>株式会社iLUNA(イルナ) - iLUNAとは</title>
 <meta name="robots" content="all" />
 <meta name="keywords" content="" />
 <meta name="description" content="株式会社イルナはアクセスアップ・メディアコンサルティング・サーバ構築・プログラム開発を得意とする会社です。" />
@@ -27,10 +27,9 @@
 							<td class="bottom_left">
 								{include file="include/bottom_news.inc"}
 							</td>
-							<td class="bottom_bg_white"></td>
-							<td class="bottom_colspan" colspan="2">
-							<div id="title_right"><img alt="" src="img/1_z6.gif">iLUNAとは</div>
-							<div style="margin-left:21px; margin-top:10px "><img alt="" src="img/1_line3.gif"></div>
+							<td class="bottom_colspan" colspan="3">
+							<div id="title_right"><img alt="" src="/img/1_z6.gif">iLUNAとは</div>
+							<div style="margin-left:21px; margin-top:10px "><img alt="" src="/img/1_line3.gif"></div>
 							  <div id="about">
 株式会社イルナ( iLUNA, Inc. ) は2008年7月設立のベンチャー企業です。<br />
 社名の由来は以下の2つの単語の掛け合わせで生まれました。<br />
@@ -66,7 +65,7 @@
 <td class="year">2002年</td><td>株式会社有線ブロードネットワークス（現 USEN)へ入社</td>
 </tr>
 <tr>
-<td class="year">2003年</td><td>株式会社アイレップへ入社<br />リスティング広告の黎明期から150社以上のSEMコンサルティングを手掛ける</td>
+<td class="year">2003年</td><td>株式会社アイレップへ入社<br />リスティング広告の黎明期から150社以上のSEO・SEMコンサルティングを手掛ける</td>
 </tr>
 <tr>
 <td class="year">2005年</td><td>西日本マーケットの開拓のために単身で大阪営業所を立ち上げる</td>
