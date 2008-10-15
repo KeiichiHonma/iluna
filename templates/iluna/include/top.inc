@@ -5,11 +5,11 @@
 				<tr>
 					<td class="top1_left">
 						  <div>www.iluna.co.jp</div>
-						  <div><a href="/"><img alt="イルナ" src="/img/logo.gif"></a></div>
+						  <div><a href="/"><img src="/img/logo.gif" width="221" height="78" alt="株式会社イルナ" /></a></div>
 					</td>
 					<td class="top1_right">
 						<div class="img">
-							<a href="/"><img alt="" src="/img/p1.gif"></a><a href="/service.html"><img alt="" src="/img/p2.gif"></a><a href="/about.html"><img alt="" src="/img/p3.gif"></a><a href="/alliance.html"><img alt="" src="/img/p4.gif"></a><a href="/contact.html"><img alt="" src="/img/p5.gif"></a>
+							<a href="/"><img src="/img/p1.gif" width="97" height="66" alt="ホーム" /></a><a href="/service.html"><img src="/img/p2.gif" width="96" height="66" alt="サービス" /></a><a href="/about.html"><img src="/img/p3.gif" width="98" height="66" alt="イルナとは" /></a><a href="/press/2008/"><img src="/img/p4.gif" width="97" height="66" alt="プレスリリース" /></a><a href="/contact.html"><img src="/img/p5.gif" width="97" height="66" alt="お問い合わせ" /></a>
 						</div>
 						<div id="menu">
 							<ul>
@@ -32,11 +32,11 @@
 					<td class="bg"></td>
 					<td class="top2_left">
 			<div id="title_left">
-			<img alt="" src="/img/1_z1.gif">ニュース
+			<img src="/img/1_z1.gif" width="13" height="13" alt="" />ニュース
 			</div>
-			<div id="line"><img alt="" src="/img/1_line1.gif"></div>
+			<div id="line"><img src="/img/1_line1.gif" width="191" height="1" alt="" /></div>
 			{include file="include/top_news.inc"}
-<div id="line"><img alt="" src="/img/1_line2.gif"></div>
+<div id="line"><img src="/img/1_line2.gif" width="189" height="1" alt="" /></div>
 					</td>
 				</tr>
 			</table>

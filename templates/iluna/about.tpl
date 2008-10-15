@@ -28,8 +28,8 @@
 								{include file="include/bottom_news.inc"}
 							</td>
 							<td class="bottom_colspan" colspan="3">
-							<div id="title_right"><img alt="" src="/img/1_z6.gif">iLUNAとは</div>
-							<div style="margin-left:21px; margin-top:10px "><img alt="" src="/img/1_line3.gif"></div>
+							<div id="title_right"><img src="/img/1_z6.gif" width="13" height="15" alt="" />iLUNAとは</div>
+							<div style="margin-left:21px; margin-top:10px "><img src="/img/1_line3.gif" width="216" height="1" alt="" /></div>
 							  <div id="about">
 株式会社イルナ( iLUNA, Inc. ) は2008年7月設立のベンチャー企業です。<br />
 社名の由来は以下の2つの単語の掛け合わせで生まれました。<br />

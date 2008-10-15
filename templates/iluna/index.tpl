@@ -28,8 +28,8 @@
 								{include file="include/bottom_news.inc"}
 							</td>
 							<td class="bottom_right1" colspan="2">
-							  <div id="title_right"><img alt="" src="/img/1_z3.gif">会社概要</div>
-							  <div style="margin-left:21px; margin-top:10px "><img alt="" src="/img/1_line3.gif"></div>
+							  <div id="title_right"><img src="/img/1_z3.gif" width="13" height="15" alt="" />会社概要</div>
+							  <div style="margin-left:21px; margin-top:10px "><img src="/img/1_line3.gif" width="216" height="1" alt="" /></div>
 							  <div id="index_yellow"><strong>社名</strong></div>
 							  <div id="index_contents">株式会社イルナ( iLUNA, Inc. )</div>
 							  <div id="index_yellow"><strong>事業内容</strong></div>
@@ -48,8 +48,8 @@
 
 							</td>
 							<td class="bottom_right2">
-								<div id="title_right"><img alt="" src="/img/1_z6.gif">メッセージ</div>
-								<div id="line"><img alt="" src="/img/1_line1.gif"></div>
+								<div id="title_right"><img alt="" src="/img/1_z6.gif" width="13" height="15" alt="" />メッセージ</div>
+								<div id="line"><img alt="" src="/img/1_line1.gif" width="191" height="1" alt="" /></div>
 							  <div class="free_comment">
 株式会社イルナ( iLUNA, Inc. ) は2008年7月設立のベンチャー企業です。
 社名の由来はilluminate(光を当てる)とluna(月)を掛け合わせた造語です。

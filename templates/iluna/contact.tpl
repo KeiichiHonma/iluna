@@ -28,10 +28,10 @@
 								{include file="include/bottom_news.inc"}
 							</td>
 							<td class="bottom_colspan" colspan="3">
-							<div id="title_right"><img alt="" src="/img/1_z6.gif">アライアンス</div>
-							<div style="margin-left:21px; margin-top:10px "><img alt="" src="/img/1_line3.gif"></div>
+							<div id="title_right"><img alt="" src="/img/1_z6.gif" width="13" height="15" alt="" />アライアンス</div>
+							<div style="margin-left:21px; margin-top:10px "><img alt="" src="/img/1_line3.gif" width="216" height="1" alt="" /></div>
 							  <div id="alliance">
-							  	<div class="img"><img alt="" src="/img/4_p1.jpg"></div>
+							  	<div class="img"><img alt="" src="/img/4_p1.jpg" width="83" height="81" alt="" /></div>
 								<div class="text">
 								<strong>パートナー様とのアライアンス</strong><br>
 								イルナでは各パートナー様とのアライアンスを推進しております。<br />
@@ -39,8 +39,8 @@
 								ぜひ一度イルナまでご相談下さい。
 								</div>
 							  </div>
-							<div id="title_right"><img alt="" src="/img/1_z6.gif">お問い合わせ</div>
-							<div style="margin-left:21px; margin-top:10px "><img alt="" src="/img/1_line3.gif"></div>
+							<div id="title_right"><img src="/img/1_z6.gif" width="13" height="15" alt="" />お問い合わせ</div>
+							<div style="margin-left:21px; margin-top:10px "><img src="/img/1_line3.gif" width="216" height="1" alt="" /></div>
 							  <div id="about">
 お問い合わせは、<a href="mailto:&#105;&#110;&#102;&#111;&#64;&#105;&#108;&#117;&#110;&#97;&#46;&#99;&#111;&#46;&#106;&#112;">info@iluna.co.jp</a>までメールをお願い致します。
 							  </div>

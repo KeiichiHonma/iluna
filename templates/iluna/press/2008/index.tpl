@@ -29,7 +29,7 @@
 							</td>
 							<td class="bottom_colspan" colspan="3">
 <div class="press">
-  <img alt="" src="/img/press_ttl.gif" width="139" height="20" /><br />株式会社イルナのプレスリリースをご覧いただけます。
+  <img src="/img/press_ttl.gif" width="139" height="20" alt="" /><br />株式会社イルナのプレスリリースをご覧いただけます。
   <div class="content">
     <h2 class="title">プレスリリース一覧&nbsp;2008年</h2>
     <div class="list">
