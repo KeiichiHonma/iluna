@@ -20,6 +20,20 @@ $news_m = array
 	array
 	(
 		'display'=>0,
+		'date'=>'2008年12月9日',
+		'url'=>'http://www.tenmono.com/rank/',
+		'text'=>'年収・給料を計るサイト「転職のモノサシ」年収が気になる企業ランキング2008を発表<br /><br /><a href="'.ILUNAURL.'/press/2008/1209.html">プレスリリースはこちら</a>'
+	),
+	array
+	(
+		'display'=>0,
+		'date'=>'2008年11月25日',
+		'url'=>'http://www.serviced-apartments-tokyo.com/',
+		'text'=>'東京サービスアパートメントサイトをリリースしました<br /><br /><a href="'.ILUNAURL.'/press/2008/pdf/20081125.pdf">プレスリリースはこちら</a>'
+	),
+	array
+	(
+		'display'=>0,
 		'date'=>'2008年10月14日',
 		'url'=>'http://www.tenmono.com/asp/',
 		'text'=>'年収・給料・給与を上場企業から計る「転職のモノサシASP」を提供開始<br /><br /><a href="'.ILUNAURL.'/press/2008/1014.html">プレスリリースはこちら</a>'

@@ -11,27 +11,40 @@
 </head>
 <body>
 <table class="main">
-	<tr>	
-	  <td class="main">
-	  	<table class="main2">
-			<tr>
-				<td class="top">
-					{include file="include/top.inc"}
-				</td>
-			</tr>
-			<tr>
-				<td class="bottom">
-					<table>
-						<tr>
-							<td class="bg"></td>
-							<td class="bottom_left">
-								{include file="include/bottom_news.inc"}
-							</td>
-							<td class="bottom_colspan" colspan="3">
+    <tr>    
+      <td class="main">
+          <table class="main2">
+            <tr>
+                <td class="top">
+                    {include file="include/top.inc"}
+                </td>
+            </tr>
+            <tr>
+                <td class="bottom">
+                    <table>
+                        <tr>
+                            <td class="bg"></td>
+                            <td class="bottom_left">
+                                {include file="include/bottom_news.inc"}
+                            </td>
+                            <td class="bottom_colspan" colspan="3">
 <div class="press">
   <img src="/img/press_ttl.gif" width="139" height="20" alt="" /><br />株式会社イルナのプレスリリースをご覧いただけます。
   <div class="content">
     <h2 class="title">プレスリリース一覧&nbsp;2008年</h2>
+
+    <div class="list">
+      <div class="date">2008年12月9日</div>
+      <div class="text"><a href="{$smarty.const.ILUNAURL}/press/2008/1209.html">年収・給料を計るサイト「転職のモノサシ」年収が気になる企業ランキング2008を発表</a></div>
+      <div class="spacer">&nbsp;</div>
+    </div>
+
+    <div class="list">
+      <div class="date">2008年11月25日</div>
+      <div class="text">東京サービスアパートメントサイトをリリースしました<br /><a href="{$smarty.const.ILUNAURL}/press/2008/pdf/20081125.pdf">プレスリリースはこちら</a></div>
+      <div class="spacer">&nbsp;</div>
+    </div>
+    
     <div class="list">
       <div class="date">2008年10月14日</div>
       <div class="text"><a href="{$smarty.const.ILUNAURL}/press/2008/1014.html">イルナ、上場企業約4,000社の年収データを活用できる「転職のモノサシASP」提供開始～SEO用外部リンクコンテンツ、LPO、モバイルコンテンツ等で活用可能～</a></div>
@@ -46,14 +59,14 @@
 
   </div>
 </div>
-							</td>
-						</tr>
-					</table>
-				</td>
-			</tr>
-		</table>
-	  </td>
-	</tr>
+                            </td>
+                        </tr>
+                    </table>
+                </td>
+            </tr>
+        </table>
+      </td>
+    </tr>
 </table>
 </body>
 </html>

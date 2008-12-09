@@ -11,23 +11,23 @@
 </head>
 <body>
 <table class="main">
-	<tr>	
-	  <td class="main">
-	  	<table class="main2">
-			<tr>
-				<td class="top">
-					{include file="include/top.inc"}
-				</td>
-			</tr>
-			<tr>
-				<td class="bottom">
-					<table>
-						<tr>
-							<td class="bg"></td>
-							<td class="bottom_left">
-								{include file="include/bottom_news.inc"}
-							</td>
-							<td class="bottom_colspan" colspan="3">
+    <tr>    
+      <td class="main">
+          <table class="main2">
+            <tr>
+                <td class="top">
+                    {include file="include/top.inc"}
+                </td>
+            </tr>
+            <tr>
+                <td class="bottom">
+                    <table>
+                        <tr>
+                            <td class="bg"></td>
+                            <td class="bottom_left">
+                                {include file="include/bottom_news.inc"}
+                            </td>
+                            <td class="bottom_colspan" colspan="3">
 <div class="press">
   <img alt="" src="/img/press_ttl.gif" width="139" height="20" /><br />株式会社イルナのプレスリリースをご覧いただけます。
   <div class="content">
@@ -73,14 +73,14 @@ TEL：03-5436-6508  FAX：03-5436-0860<br />
     </div>
   </div>
 </div>
-							</td>
-						</tr>
-					</table>
-				</td>
-			</tr>
-		</table>
-	  </td>
-	</tr>
+                            </td>
+                        </tr>
+                    </table>
+                </td>
+            </tr>
+        </table>
+      </td>
+    </tr>
 </table>
 </body>
 </html>

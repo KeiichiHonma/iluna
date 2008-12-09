@@ -1,0 +1,6 @@
+@charset"UTF-8";
+table,tr,td{
+    border-collapse: collapse;
+    margin:0px;
+    padding:0px;
+}

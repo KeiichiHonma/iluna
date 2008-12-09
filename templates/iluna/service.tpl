@@ -32,6 +32,11 @@
 							<div style="margin-left:21px; margin-top:10px "><img src="/img/1_line3.gif" width="216" height="1" alt="" /></div>
 							  <div id="service">
                               <div class="list">
+							      <div class="left"><a href="http://www.serviced-apartments-tokyo.com/ja/" target="blank"><img src="/img/tsa_logo.gif" width="214" height="32" alt="東京サービスアパートメント" /></a></div>
+							      <div class="right"><a href="http://www.serviced-apartments-tokyo.com/ja/" target="blank"><strong>東京サービスアパートメント</strong></a><br />東京サービスアパートメントは都会の高級家具付きサービスアパートメントに一括でお問い合わせ出来るサイトです</div>
+                                  <div class="spacer">&nbsp;</div>
+                              </div>
+                              <div class="list">
 							      <div class="left"><a href="http://www.tenmono.com/asp/" target="blank"><img src="/img/tenmono_asp.gif" width="214" height="77" alt="転職のモノサシASP"></a></div>
 							      <div class="right"><a href="http://www.tenmono.com/asp/" target="blank"><strong>転職のモノサシASP</strong></a><br />上場企業約4,000社の年収データを活用できるASP。SEO用外部リンクコンテンツ、LPO、モバイルコンテンツ等で活用可能。</div>
                                   <div class="spacer">&nbsp;</div>
