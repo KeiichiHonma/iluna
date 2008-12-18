@@ -20,6 +20,20 @@ $news_m = array
 	array
 	(
 		'display'=>0,
+		'date'=>'2008年12月18日',
+		'url'=>'http://www.tenmono.com/',
+		'text'=>'「転職のモノサシ」が12月13日発売の夕刊フジ1面に掲載されました'
+	),
+	array
+	(
+		'display'=>0,
+		'date'=>'2008年12月15日',
+		'url'=>'',
+		'text'=>'翔泳社発行の「モバイルを極める 広告・集客・サイト運営の大原則」に弊社代表矢作のコラムが掲載されました'
+	),
+	array
+	(
+		'display'=>0,
 		'date'=>'2008年12月9日',
 		'url'=>'http://www.tenmono.com/rank/',
 		'text'=>'年収・給料を計るサイト「転職のモノサシ」年収が気になる企業ランキング2008を発表<br /><br /><a href="'.ILUNAURL.'/press/2008/1209.html">プレスリリースはこちら</a>'
@@ -37,41 +51,6 @@ $news_m = array
 		'date'=>'2008年10月14日',
 		'url'=>'http://www.tenmono.com/asp/',
 		'text'=>'年収・給料・給与を上場企業から計る「転職のモノサシASP」を提供開始<br /><br /><a href="'.ILUNAURL.'/press/2008/1014.html">プレスリリースはこちら</a>'
-	),
-	array
-	(
-		'display'=>0,
-		'date'=>'2008年8月18日',
-		'url'=>'',
-		'text'=>'8月4日～8月11日の<a href="http://www.venturenow.jp/news/2008/08/11/1233_005444.html">Venture Now</a> サイト内で「転職のモノサシ」がアクセスランキング第1位に選ばれました'
-	),
-	array
-	(
-		'display'=>0,
-		'date'=>'2008年8月14日',
-		'url'=>'',
-		'text'=>'IT業界の転職をサポートする「<a href="http://careerzine.jp/">CAREERzine</a>」サイト内で「転職のモノサシ」がアクセスランキング第1位に選ばれました'
-	),
-	array
-	(
-		'display'=>0,
-		'date'=>'2008年8月13日',
-		'url'=>'',
-		'text'=>'<a href="http://www.tenmono.com/">転職のモノサシ</a>が8月13日発売の日経産業新聞13面に掲載されました'
-	),
-	array
-	(
-		'display'=>0,
-		'date'=>'2008年8月11日',
-		'url'=>'http://www.tenmono.com/blog_parts/',
-		'text'=>'年収・給料・給与を上場企業から計る「転職のモノサシ」のブログパーツをリリースしました'
-	),
-	array
-	(
-		'display'=>0,
-		'date'=>'2008年8月11日',
-		'url'=>'http://www.tenmono.com/',
-		'text'=>'年収・給料・給与を上場企業から計る「転職のモノサシ」をオープンしました<br /><br /><a href="'.ILUNAURL.'/press/2008/pdf/20080811.pdf">プレスリリースはこちら</a>'
 	)
 );
 
