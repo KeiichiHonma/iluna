@@ -59,6 +59,7 @@
 							  </div>
 							</td>
 						</tr>
+                        {include file="include/foot.inc"}
 					</table>
 				</td>
 			</tr>
