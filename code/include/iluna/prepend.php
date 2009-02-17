@@ -17,53 +17,53 @@ $news_top = array();
 $news_bottom = array();
 $news_m = array
 (
-	array
-	(
-		'display'=>0,
-		'date'=>'2008年12月18日',
-		'url'=>'http://www.tenmono.com/',
-		'text'=>'「転職のモノサシ」が12月13日発売の夕刊フジ1面に掲載されました'
-	),
-	array
-	(
-		'display'=>0,
-		'date'=>'2008年12月15日',
-		'url'=>'',
-		'text'=>'翔泳社発行の「モバイルを極める 広告・集客・サイト運営の大原則」に弊社代表矢作のコラムが掲載されました'
-	),
-	array
-	(
-		'display'=>0,
-		'date'=>'2008年12月9日',
-		'url'=>'http://www.tenmono.com/rank/',
-		'text'=>'年収・給料を計るサイト「転職のモノサシ」年収が気になる企業ランキング2008を発表<br /><br /><a href="'.ILUNAURL.'/press/2008/1209.html">プレスリリースはこちら</a>'
-	),
-	array
-	(
-		'display'=>0,
-		'date'=>'2008年11月25日',
-		'url'=>'http://www.serviced-apartments-tokyo.com/',
-		'text'=>'東京サービスアパートメントサイトをリリースしました<br /><br /><a href="'.ILUNAURL.'/press/2008/pdf/20081125.pdf">プレスリリースはこちら</a>'
-	),
-	array
-	(
-		'display'=>0,
-		'date'=>'2008年10月14日',
-		'url'=>'http://www.tenmono.com/asp/',
-		'text'=>'年収・給料・給与を上場企業から計る「転職のモノサシASP」を提供開始<br /><br /><a href="'.ILUNAURL.'/press/2008/1014.html">プレスリリースはこちら</a>'
-	)
+    array
+    (
+        'display'=>0,
+        'date'=>'2009年2月17日',
+        'url'=>'http://www.talemado.com/',
+        'text'=>'「タレントの窓口」をリリースしました<br /><br /><a href="'.ILUNAURL.'/press/2009/0217.html">プレスリリースはこちら</a>'
+    ),
+    array
+    (
+        'display'=>0,
+        'date'=>'2008年12月18日',
+        'url'=>'http://www.tenmono.com/',
+        'text'=>'「転職のモノサシ」が12月13日発売の夕刊フジ1面に掲載されました'
+    ),
+    array
+    (
+        'display'=>0,
+        'date'=>'2008年12月15日',
+        'url'=>'',
+        'text'=>'翔泳社発行の「モバイルを極める 広告・集客・サイト運営の大原則」に弊社代表矢作のコラムが掲載されました'
+    ),
+    array
+    (
+        'display'=>0,
+        'date'=>'2008年12月9日',
+        'url'=>'http://www.tenmono.com/rank/',
+        'text'=>'年収・給料を計るサイト「転職のモノサシ」年収が気になる企業ランキング2008を発表<br /><br /><a href="'.ILUNAURL.'/press/2008/1209.html">プレスリリースはこちら</a>'
+    ),
+    array
+    (
+        'display'=>0,
+        'date'=>'2008年11月25日',
+        'url'=>'http://www.serviced-apartments-tokyo.com/',
+        'text'=>'東京サービスアパートメントサイトをリリースしました<br /><br /><a href="'.ILUNAURL.'/press/2008/pdf/20081125.pdf">プレスリリースはこちら</a>'
+    )
 );
 
 $i = 0;
 foreach($news_m as $key => $val){
-	if($val['display'] == 0){
-		if($i == 0){
-			$news_top[] = $val;
-		}else{
-			$news_bottom[] = $val;
-		}
-		$i++;
-	}
+    if($val['display'] == 0){
+        if($i == 0){
+            $news_top[] = $val;
+        }else{
+            $news_bottom[] = $val;
+        }
+        $i++;
+    }
 }
 /*var_dump($news_bottom);
 die();*/

@@ -16,7 +16,7 @@
 							<li id="menu01">{if $selected == "index"}<em><a href="/">HOME</a></em>{else}<a href="/">HOME</a>{/if}</li>
 							<li id="menu02">{if $selected == "service"}<em><a href="/service.html">サービス</a></em>{else}<a href="/service.html">サービス</a>{/if}</li>
 							<li id="menu03">{if $selected == "about"}<em><a href="/about.html">iLUNAとは</a></em>{else}<a href="/about.html">iLUNAとは</a>{/if}</li>
-							<li id="menu04">{if $selected == "press"}<em><a href="/press/2008/">プレスリリース</a></em>{else}<a href="/press/2008/">プレスリリース</a>{/if}</li>
+							<li id="menu04">{if $selected == "press"}<em><a href="/press/2009/">プレスリリース</a></em>{else}<a href="/press/2009/">プレスリリース</a>{/if}</li>
 							<li id="menu05">{if $selected == "contact"}<em><a href="/contact.html">お問い合わせ</a></em>{else}<a href="/contact.html">お問い合わせ</a>{/if}</li>
 							</ul>
 						</div>
