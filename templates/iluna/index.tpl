@@ -40,7 +40,7 @@
 							  <div id="index_contents">Eメール：<a href="mailto:&#105;&#110;&#102;&#111;&#64;&#105;&#108;&#117;&#110;&#97;&#46;&#99;&#111;&#46;&#106;&#112;">info@iluna.co.jp</a></div>
 							  <div id="index_yellow"><strong>所在地</strong></div>
 							  <div id="index_contents">〒141-0031</div>
-							  <div id="index_contents">東京都品川区西五反田2-24-4 WEST HILL4F</div>
+							  <div id="index_contents">東京都品川区西五反田8-4-15 オカジマビル 7F</div>
 							  <div id="index_yellow"><strong>役員</strong></div>
 							  <div id="index_contents">最高経営責任者 矢作 嘉男</div>
 							  <div id="index_contents">最高経営執行者 本間 圭一</div>

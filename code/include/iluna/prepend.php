@@ -20,6 +20,27 @@ $news_m = array
     array
     (
         'display'=>0,
+        'date'=>'2009年2月23日',
+        'url'=>'',
+        'text'=>'オフィスを移転いたしました。<br />移転先：品川区西五反田8-4-15 オカジマビル7F'
+    ),
+    array
+    (
+        'display'=>0,
+        'date'=>'2009年2月18日',
+        'url'=>'',
+        'text'=>'「<a href="http://www.talemado.com/">タレントの窓口</a>」が<br /><a href="'.ILUNAURL.'/press/2009/pdf/nikkei090118.pdf">日経産業新聞の4面（PDF）</a>に掲載されました。'
+    ),
+    array
+    (
+        'display'=>0,
+        'date'=>'2009年2月17日',
+        'url'=>'',
+        'text'=>'「<a href="http://www.talemado.com/">タレントの窓口</a>」が<br /><a href="http://www.itmedia.co.jp/news/articles/0902/17/news082.html">ITmediaNews</a>、<a href="http://www.venturenow.jp/news/2009/02/17/1704_006038.html">Venture Now</a>に取り上げられました。'
+    ),
+    array
+    (
+        'display'=>0,
         'date'=>'2009年2月17日',
         'url'=>'http://www.talemado.com/',
         'text'=>'「タレントの窓口」をリリースしました<br /><br /><a href="'.ILUNAURL.'/press/2009/0217.html">プレスリリースはこちら</a>'
@@ -30,27 +51,6 @@ $news_m = array
         'date'=>'2008年12月18日',
         'url'=>'http://www.tenmono.com/',
         'text'=>'「転職のモノサシ」が12月13日発売の夕刊フジ1面に掲載されました'
-    ),
-    array
-    (
-        'display'=>0,
-        'date'=>'2008年12月15日',
-        'url'=>'',
-        'text'=>'翔泳社発行の「モバイルを極める 広告・集客・サイト運営の大原則」に弊社代表矢作のコラムが掲載されました'
-    ),
-    array
-    (
-        'display'=>0,
-        'date'=>'2008年12月9日',
-        'url'=>'http://www.tenmono.com/rank/',
-        'text'=>'年収・給料を計るサイト「転職のモノサシ」年収が気になる企業ランキング2008を発表<br /><br /><a href="'.ILUNAURL.'/press/2008/1209.html">プレスリリースはこちら</a>'
-    ),
-    array
-    (
-        'display'=>0,
-        'date'=>'2008年11月25日',
-        'url'=>'http://www.serviced-apartments-tokyo.com/',
-        'text'=>'東京サービスアパートメントサイトをリリースしました<br /><br /><a href="'.ILUNAURL.'/press/2008/pdf/20081125.pdf">プレスリリースはこちら</a>'
     )
 );
 
