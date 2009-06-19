@@ -32,6 +32,11 @@
 							<div style="margin-left:21px; margin-top:10px "><img src="/img/1_line3.gif" width="216" height="1" alt="" /></div>
 							  <div id="service">
                               <div class="list">
+							      <div class="left"><a href="http://www.oshiete-ca.com/" target="blank"><img src="/img/oshiete_logo.gif" width="214" height="55" alt="教えてCA！" /></a></div>
+							      <div class="right"><a href="http://www.oshiete-ca.com/" target="blank"><strong>教えてCA！</strong></a><br />親切な先輩CAが本気でCAになりたいあなたの疑問に答えてくれるQ&Aサイトです。</div>
+                                  <div class="spacer">&nbsp;</div>
+                              </div>
+                              <div class="list">
 							      <div class="left"><a href="http://www.talemado.com/" target="blank"><img src="/img/talemado_logo.gif" width="214" height="55" alt="タレントの窓口" /></a></div>
 							      <div class="right"><a href="http://www.talemado.com/" target="blank"><strong>タレントの窓口</strong></a><br />有名タレントや芸能人にネットでお仕事の依頼が出来るサイトです。タレント検索データとブロガー属性分析を参考にタレント選定が可能です。</div>
                                   <div class="spacer">&nbsp;</div>
