@@ -20,6 +20,20 @@ $news_m = array
     array
     (
         'display'=>0,
+        'date'=>'2009年6月30日',
+        'url'=>'',
+        'text'=>'「教えてCA!」をリリースしました <br /><br /><a href="'.ILUNAURL.'/press/2009/0630.html">プレスリリースはこちら</a>'
+    ),
+    array
+    (
+        'display'=>0,
+        'date'=>'2009年6月30日',
+        'url'=>'',
+        'text'=>'<a href="http://markezine.jp/article/detail/7629">広告/マーケティング情報サイトMarkezineで弊社矢作の連載が始まりました。</a>'
+    ),
+    array
+    (
+        'display'=>0,
         'date'=>'2009年4月22日',
         'url'=>'',
         'text'=>'芸能人にオンラインで仕事依頼が可能な『タレントの窓口』に学園祭・結婚式にも出演依頼が出来る特集ページを追加<br /><br /><a href="'.ILUNAURL.'/press/2009/0422.html">プレスリリースはこちら</a>'
@@ -51,13 +65,6 @@ $news_m = array
         'date'=>'2009年2月17日',
         'url'=>'http://www.talemado.com/',
         'text'=>'「タレントの窓口」をリリースしました<br /><br /><a href="'.ILUNAURL.'/press/2009/0217.html">プレスリリースはこちら</a>'
-    ),
-    array
-    (
-        'display'=>0,
-        'date'=>'2008年12月18日',
-        'url'=>'http://www.tenmono.com/',
-        'text'=>'「転職のモノサシ」が12月13日発売の夕刊フジ1面に掲載されました'
     )
 );
 

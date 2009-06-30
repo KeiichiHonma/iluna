@@ -33,6 +33,11 @@
   <div class="content">
     <h2 class="title">プレスリリース一覧&nbsp;2009年</h2>
     <div class="list">
+      <div class="date">2009年6月30日</div>
+      <div class="text"><a href="{$smarty.const.ILUNAURL}/press/2009/0630.html">2009年6月30日　「教えてCA!」をリリースしました</a></div>
+      <div class="spacer">&nbsp;</div>
+    </div>
+    <div class="list">
       <div class="date">2009年4月22日</div>
       <div class="text"><a href="{$smarty.const.ILUNAURL}/press/2009/0422.html">2009年4月22日芸能人にオンラインで仕事依頼が可能な『タレントの窓口』に学園祭・結婚式にも
 出演依頼が出来る特集ページを追加</a></div>
