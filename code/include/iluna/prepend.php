@@ -17,6 +17,15 @@ $news_top = array();
 $news_bottom = array();
 $news_m = array
 (
+
+
+    array
+    (
+        'display'=>0,
+        'date'=>'2009年6月30日',
+        'url'=>'',
+        'text'=>'「<a href="http://www.oshiete-ca.com/">教えてCA!</a>」が<a href="http://markezine.jp/article/detail/7681">MarkeZine</a>に<br />取上げられました。'
+    ),
     array
     (
         'display'=>0,
