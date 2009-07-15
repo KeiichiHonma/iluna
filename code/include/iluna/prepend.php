@@ -17,8 +17,13 @@ $news_top = array();
 $news_bottom = array();
 $news_m = array
 (
-
-
+    array
+    (
+        'display'=>0,
+        'date'=>'2009年7月16日',
+        'url'=>'',
+        'text'=>'「<a href="http://www.tenmono.com/">転職のモノサシモバイル</a>」をリリースしました<br /><br /><a href="'.ILUNAURL.'/press/2009/0716.html">プレスリリースはこちら</a>'
+    ),
     array
     (
         'display'=>0,
