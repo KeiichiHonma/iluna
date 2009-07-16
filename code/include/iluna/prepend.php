@@ -20,6 +20,20 @@ $news_m = array
     array
     (
         'display'=>0,
+        'date'=>'2009年7月17日',
+        'url'=>'',
+        'text'=>'「転職のモノサシモバイル」が日経産業新聞の4面に掲載されました。'
+    ),
+    array
+    (
+        'display'=>0,
+        'date'=>'2009年7月16日',
+        'url'=>'',
+        'text'=>'「転職のモノサシモバイル」がが<a href="http://www.j-cast.com/kaisha/2009/07/16045472.html">J-CAST</a>に取上げられました。'
+    ),
+    array
+    (
+        'display'=>0,
         'date'=>'2009年7月16日',
         'url'=>'',
         'text'=>'「<a href="http://www.tenmono.com/">転職のモノサシモバイル</a>」をリリースしました<br /><br /><a href="'.ILUNAURL.'/press/2009/0716.html">プレスリリースはこちら</a>'
@@ -58,27 +72,6 @@ $news_m = array
         'date'=>'2009年2月23日',
         'url'=>'',
         'text'=>'オフィスを移転いたしました。<br />移転先：品川区西五反田8-4-15 オカジマビル7F'
-    ),
-    array
-    (
-        'display'=>0,
-        'date'=>'2009年2月18日',
-        'url'=>'',
-        'text'=>'「<a href="http://www.talemado.com/">タレントの窓口</a>」が<br /><a href="'.ILUNAURL.'/press/2009/pdf/nikkei090118.pdf">日経産業新聞の4面（PDF）</a>に掲載されました。'
-    ),
-    array
-    (
-        'display'=>0,
-        'date'=>'2009年2月17日',
-        'url'=>'',
-        'text'=>'「<a href="http://www.talemado.com/">タレントの窓口</a>」が<br /><a href="http://www.itmedia.co.jp/news/articles/0902/17/news082.html">ITmediaNews</a>、<a href="http://www.venturenow.jp/news/2009/02/17/1704_006038.html">Venture Now</a>に取り上げられました。'
-    ),
-    array
-    (
-        'display'=>0,
-        'date'=>'2009年2月17日',
-        'url'=>'http://www.talemado.com/',
-        'text'=>'「タレントの窓口」をリリースしました<br /><br /><a href="'.ILUNAURL.'/press/2009/0217.html">プレスリリースはこちら</a>'
     )
 );
 

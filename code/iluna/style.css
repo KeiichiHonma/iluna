@@ -106,7 +106,7 @@ td.top2{
 td.bg{
     width:25px;
     height:100%;
-    background: url(/img/bg.gif) repeat-y left top;
+    /*background: url(/img/bg.gif) repeat-y left top;*/
 }
 
 td.top2_left{
