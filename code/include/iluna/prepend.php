@@ -20,6 +20,20 @@ $news_m = array
     array
     (
         'display'=>0,
+        'date'=>'2009年8月14日',
+        'url'=>'',
+        'text'=>'「教えてCA!」に<a href="http://www.oshiete-ca.com/bulletin/list">模擬面接・掲示板機能</a>が追加されました。<br /><br /><a href="'.ILUNAURL.'/press/2009/0814.html">プレスリリースはこちら</a>'
+    ),
+    array
+    (
+        'display'=>0,
+        'date'=>'2009年8月7日',
+        'url'=>'',
+        'text'=>'<a href="http://markezine.jp/article/detail/7973">弊社矢作のMarkezine連載第2回目が掲載されました。</a>'
+    ),
+    array
+    (
+        'display'=>0,
         'date'=>'2009年7月17日',
         'url'=>'',
         'text'=>'「転職のモノサシモバイル」が日経産業新聞の4面に掲載されました。'

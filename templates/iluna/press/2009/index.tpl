@@ -33,6 +33,11 @@
   <div class="content">
     <h2 class="title">プレスリリース一覧&nbsp;2009年</h2>
     <div class="list">
+      <div class="date">2009年8月14日</div>
+      <div class="text"><a href="{$smarty.const.ILUNAURL}/press/2009/0814.html">2009年8月14日　「教えてCA!」に模擬面接・掲示板機能が追加されました。</a></div>
+      <div class="spacer">&nbsp;</div>
+    </div>
+    <div class="list">
       <div class="date">2009年7月16日</div>
       <div class="text"><a href="{$smarty.const.ILUNAURL}/press/2009/0716.html">2009年7月16日　「転職のモノサシモバイル」をリリースしました</a></div>
       <div class="spacer">&nbsp;</div>
