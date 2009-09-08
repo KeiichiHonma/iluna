@@ -20,6 +20,13 @@ $news_m = array
     array
     (
         'display'=>0,
+        'date'=>'2009年9月7日',
+        'url'=>'',
+        'text'=>'<a href="http://markezine.jp/article/detail/8237">弊社矢作のMarkezine連載第3回目が掲載されました。</a>'
+    ),
+    array
+    (
+        'display'=>0,
         'date'=>'2009年8月14日',
         'url'=>'',
         'text'=>'「教えてCA!」に<a href="http://www.oshiete-ca.com/bulletin/list">模擬面接・掲示板機能</a>が追加されました。<br /><br /><a href="'.ILUNAURL.'/press/2009/0814.html">プレスリリースはこちら</a>'
@@ -79,13 +86,6 @@ $news_m = array
         'date'=>'2009年4月22日',
         'url'=>'',
         'text'=>'芸能人にオンラインで仕事依頼が可能な『タレントの窓口』に学園祭・結婚式にも出演依頼が出来る特集ページを追加<br /><br /><a href="'.ILUNAURL.'/press/2009/0422.html">プレスリリースはこちら</a>'
-    ),
-    array
-    (
-        'display'=>0,
-        'date'=>'2009年2月23日',
-        'url'=>'',
-        'text'=>'オフィスを移転いたしました。<br />移転先：品川区西五反田8-4-15 オカジマビル7F'
     )
 );
 
