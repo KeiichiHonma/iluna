@@ -20,6 +20,13 @@ $news_m = array
     array
     (
         'display'=>0,
+        'date'=>'2009年9月14日',
+        'url'=>'',
+        'text'=>'「<a href="http://www.serviced-apartments-tokyo.com/">東京サービスアパートメント</a>」をリニューアルしました<br /><br /><a href="'.ILUNAURL.'/press/2009/0914.html">プレスリリースはこちら</a>'
+    ),
+    array
+    (
+        'display'=>0,
         'date'=>'2009年9月7日',
         'url'=>'',
         'text'=>'<a href="http://markezine.jp/article/detail/8237">弊社矢作のMarkezine連載第3回目が掲載されました。</a>'
