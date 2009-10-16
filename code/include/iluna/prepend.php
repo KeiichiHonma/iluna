@@ -20,6 +20,13 @@ $news_m = array
     array
     (
         'display'=>0,
+        'date'=>'2009年10月16日',
+        'url'=>'',
+        'text'=>'<a href="http://markezine.jp/article/detail/8558">弊社矢作のMarkezine連載第4回目が掲載されました。</a>'
+    ),
+    array
+    (
+        'display'=>0,
         'date'=>'2009年9月14日',
         'url'=>'',
         'text'=>'「<a href="http://www.serviced-apartments-tokyo.com/">東京サービスアパートメント</a>」をリニューアルしました<br /><br /><a href="'.ILUNAURL.'/press/2009/0914.html">プレスリリースはこちら</a>'
@@ -79,20 +86,6 @@ $news_m = array
         'date'=>'2009年6月30日',
         'url'=>'',
         'text'=>'「教えてCA!」をリリースしました <br /><br /><a href="'.ILUNAURL.'/press/2009/0630.html">プレスリリースはこちら</a>'
-    ),
-    array
-    (
-        'display'=>0,
-        'date'=>'2009年6月30日',
-        'url'=>'',
-        'text'=>'<a href="http://markezine.jp/article/detail/7629">広告/マーケティング情報サイトMarkezineで弊社矢作の連載が始まりました。</a>'
-    ),
-    array
-    (
-        'display'=>0,
-        'date'=>'2009年4月22日',
-        'url'=>'',
-        'text'=>'芸能人にオンラインで仕事依頼が可能な『タレントの窓口』に学園祭・結婚式にも出演依頼が出来る特集ページを追加<br /><br /><a href="'.ILUNAURL.'/press/2009/0422.html">プレスリリースはこちら</a>'
     )
 );
 
