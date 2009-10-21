@@ -33,6 +33,11 @@
   <div class="content">
     <h2 class="title">プレスリリース一覧&nbsp;2009年</h2>
     <div class="list">
+      <div class="date">2009年10月22日</div>
+      <div class="text"><a href="{$smarty.const.ILUNAURL}/press/2009/1022.html">2009年10月22日　「教えてCA!」モバイル版をリリースしました。</a></div>
+      <div class="spacer">&nbsp;</div>
+    </div>
+    <div class="list">
       <div class="date">2009年9月14日</div>
       <div class="text"><a href="{$smarty.const.ILUNAURL}/press/2009/0914.html">2009年9月14日　「東京サービスアパートメント」をリニューアルしました。</a></div>
       <div class="spacer">&nbsp;</div>

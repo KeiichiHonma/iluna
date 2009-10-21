@@ -1,7 +1,7 @@
 <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
 <html>
 <head>
-<title>株式会社iLUNA(イルナ) - 4月22日プレスリリース</title>
+<title>株式会社iLUNA(イルナ) - 9月14日プレスリリース</title>
 <meta name="robots" content="all" />
 <meta name="keywords" content="" />
 <meta name="description" content="「多様な選択肢の中から選ぶ幸せ」という価値を提供。株式会社イルナは月（LUNA）のように、ユーザの足元を照らす（illuminate）ことで、ユーザの様々な活動の手助けをします。" />

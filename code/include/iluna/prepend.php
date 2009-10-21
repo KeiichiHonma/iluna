@@ -20,6 +20,13 @@ $news_m = array
     array
     (
         'display'=>0,
+        'date'=>'2009年10月22日',
+        'url'=>'',
+        'text'=>'「教えてCA!」モバイル版をリリースしました。<br /><br /><a href="'.ILUNAURL.'/press/2009/1022.html">プレスリリースはこちら</a>'
+    ),
+    array
+    (
+        'display'=>0,
         'date'=>'2009年10月16日',
         'url'=>'',
         'text'=>'<a href="http://markezine.jp/article/detail/8558">弊社矢作のMarkezine連載第4回目が掲載されました。</a>'
