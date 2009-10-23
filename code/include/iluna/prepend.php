@@ -22,6 +22,13 @@ $news_m = array
         'display'=>0,
         'date'=>'2009年10月22日',
         'url'=>'',
+        'text'=>'<a href="http://markezine.jp/article/detail/8655">「教えてCA!モバイル」</a>がMarkeZineに取上げられました。'
+    ),
+    array
+    (
+        'display'=>0,
+        'date'=>'2009年10月22日',
+        'url'=>'',
         'text'=>'「教えてCA!」モバイル版をリリースしました。<br /><br /><a href="'.ILUNAURL.'/press/2009/1022.html">プレスリリースはこちら</a>'
     ),
     array
@@ -51,48 +58,6 @@ $news_m = array
         'date'=>'2009年8月14日',
         'url'=>'',
         'text'=>'「教えてCA!」に<a href="http://www.oshiete-ca.com/bulletin/list">模擬面接・掲示板機能</a>が追加されました。<br /><br /><a href="'.ILUNAURL.'/press/2009/0814.html">プレスリリースはこちら</a>'
-    ),
-    array
-    (
-        'display'=>0,
-        'date'=>'2009年8月7日',
-        'url'=>'',
-        'text'=>'<a href="http://markezine.jp/article/detail/7973">弊社矢作のMarkezine連載第2回目が掲載されました。</a>'
-    ),
-    array
-    (
-        'display'=>0,
-        'date'=>'2009年7月17日',
-        'url'=>'',
-        'text'=>'「転職のモノサシモバイル」が日経産業新聞の4面に掲載されました。'
-    ),
-    array
-    (
-        'display'=>0,
-        'date'=>'2009年7月16日',
-        'url'=>'',
-        'text'=>'「転職のモノサシモバイル」がが<a href="http://www.j-cast.com/kaisha/2009/07/16045472.html">J-CAST</a>に取上げられました。'
-    ),
-    array
-    (
-        'display'=>0,
-        'date'=>'2009年7月16日',
-        'url'=>'',
-        'text'=>'「<a href="http://www.tenmono.com/">転職のモノサシモバイル</a>」をリリースしました<br /><br /><a href="'.ILUNAURL.'/press/2009/0716.html">プレスリリースはこちら</a>'
-    ),
-    array
-    (
-        'display'=>0,
-        'date'=>'2009年6月30日',
-        'url'=>'',
-        'text'=>'「<a href="http://www.oshiete-ca.com/">教えてCA!</a>」が<a href="http://markezine.jp/article/detail/7681">MarkeZine</a>に<br />取上げられました。'
-    ),
-    array
-    (
-        'display'=>0,
-        'date'=>'2009年6月30日',
-        'url'=>'',
-        'text'=>'「教えてCA!」をリリースしました <br /><br /><a href="'.ILUNAURL.'/press/2009/0630.html">プレスリリースはこちら</a>'
     )
 );
 
