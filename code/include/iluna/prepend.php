@@ -20,6 +20,13 @@ $news_m = array
     array
     (
         'display'=>0,
+        'date'=>'2009年11月24日',
+        'url'=>'',
+        'text'=>'<a href="http://markezine.jp/article/detail/8887">弊社矢作のMarkezine連載第5回目が掲載されました。</a>'
+    ),
+    array
+    (
+        'display'=>0,
         'date'=>'2009年10月22日',
         'url'=>'',
         'text'=>'<a href="http://markezine.jp/article/detail/8655">「教えてCA!モバイル」</a>がMarkeZineに取上げられました。'
