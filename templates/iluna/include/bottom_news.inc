@@ -1,5 +1,0 @@
-{foreach from=$news_bottom key="key" item="array" name="news_bottom"}
-<div id="index_red"><strong>{$array.date}</strong></div>
-<div id="index_contents72">{if $array.url != ''}<a href="{$array.url}">{$array.text}</a>{else}{$array.text}{/if}</div>
-{if !$smarty.foreach.news_bottom.last}<div id="line"><img src="/img/1_line2.gif" width="189" height="1" alt="" /></div>{/if}
-{/foreach}
