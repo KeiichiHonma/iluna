@@ -1,0 +1,92 @@
+
+.attention{
+    font-weight:bold;
+}
+
+.form_text_common{
+    width:280px;
+}
+
+.form_textarea_little{
+    width:300px;
+    height:150px;
+}
+
+.form_textarea_little_height{
+    width:370px;
+    height:100px;
+}
+
+.form_textarea_common{
+    width:370px;
+    height:150px;
+}
+
+.form_textarea_reply{
+    width:500px;
+    height:200px;
+}
+
+.form_textarea_large{
+    width:470px;
+    height:300px;
+}
+
+.form_textarea_comment{
+    width:460px;
+    height:200px;
+}
+
+.form_text_postcode1{
+    width:30px;
+    margin:0px 4px 0px 0px;
+}
+.form_text_postcode2{
+    width:50px;
+    margin:0px 0px 0px 4px;
+}
+.form_text_birthdate{
+    width:50px;
+    margin:0px 4px 0px 4px;
+}
+
+textarea.regulation
+
+{
+width: 755px;
+margin-top: 5px;
+margin-right: 0pt;
+margin-bottom: 0px;
+margin-left: 0pt;
+font-size: 1em;
+}
+p.form_attention{
+    /*border:1px solid red;*/
+    border:1px solid #FACDE6;
+    color:red;
+    /*font-weight:bold;*/
+    font-size:12px;
+    padding:5px;
+    line-height:20px;
+}
+
+table .help {
+    font-size:12px;
+    color:#333333;
+    /*background-color:#FDEAF4;*/
+    background-color:#FFF7FB;
+    
+    width:180px;
+    line-height:20px;
+    }
+
+.devide_line{
+    width:600px;
+    height:1px;
+    text-align:left;
+    padding:0px;
+    margin:2px 0px;
+    background-image:url(/img/bulletin/bg_search.gif);
+    background-repeat:repeat-x;
+    clear:both;
+}

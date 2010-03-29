@@ -1,0 +1,1 @@
+<dd class="right"><a href="{$smarty.const.ILUNAURL}/img/press/pdf/{$date_timestamp|date_format:"%Y"}/{$date_ymd}.pdf">PDFファイルを表示<img alt="" src="/img/press/pdf.gif" width="17" height="17" /></a></dd>

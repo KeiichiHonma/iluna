@@ -1,0 +1,180 @@
+*{
+    margin:0;
+    padding:0;
+    color:#666666;
+    text-decoration:none;
+    outline:none;
+    font-size:12px;
+}
+
+* html *{ font-size:12px;}
+
+h1, h2, h3, h4, h5, h6, p, ol, ul, li, dl, dt, dd, table, tr, th, td  {
+    margin:0;
+    padding:0;
+    }
+
+body {
+    margin:0;
+    padding:0;
+    font-family:Arial,"ＭＳ Ｐゴシック",Osaka, Helvetica;
+    font-size:small;
+    }
+* html body {
+  font-family:Arial,"ＭＳ Ｐゴシック",Osaka, Helvetica;
+}
+
+li {
+    list-style:none;
+    margin:0;
+    padding:0;
+}
+
+form {
+    margin:0;
+    padding:0;
+    } 
+input,textarea {
+    margin:0;
+    padding:2;
+    font-family: 'ＭＳ Ｐゴシック', "ヒラギノ","Osaka",Arial,sans-serif;
+    }
+
+img {
+    border:medium none;
+    margin:0;
+    padding:0;
+    }
+
+a:link {
+    text-decoration:none;
+    color:#0078F0;
+    }
+
+a:visited {
+    text-decoration:none;
+    color:#0078F0;
+    }
+
+a:hover {
+    text-decoration:underline;
+    color:#A572D3;
+    }
+    
+a:active {
+    text-decoration:underline;
+    color:#A572D3;
+    }
+
+h1 {
+    font-size:10px;
+    color:#CCCCCC;
+    margin-top:5px;
+    font-weight:normal;
+    }
+
+.m_b5 {
+    margin-bottom:5px;
+    }
+    
+.m_b10 {
+    margin-bottom:10px;
+    }
+    
+.m_b20 {
+    margin-bottom:20px;
+    } 
+
+.m_b30 {
+    margin-bottom:30px;
+    } 
+.m_b300 {
+    margin-bottom:300px;
+    }
+.m_r5 {
+    margin-right:5px;
+    }
+
+.m_r10 {
+    margin-right:10px;
+    }
+    
+.m_r20 {
+    margin-right:20px;
+    }
+    
+.m_t5 {
+    margin-top:5px;
+    }
+    
+    
+.m_t10 {
+    margin-top:10px;
+    }
+    
+.m_t15 {
+    margin-top:15px;
+    }
+    
+.m_t20 {
+    margin-top:20px;
+    }
+.m_t30 {
+    margin-top:30px;
+    }
+.m_l5 {
+    margin-left:5px;
+    }
+
+.m_l10 {
+    margin-left:10px;
+    }
+
+.m_l20 {
+    margin-left:20px;
+    }
+
+.m_15 {
+    margin:15px 0 15px 0;
+    }
+
+.p_l10 {
+    padding-left:10px;
+    }
+.p_t10 {
+    padding-top:20px;
+    border:1px red solid;
+    }
+.bold {
+    font-weight:bold;
+    }
+
+.center {
+    text-align:center;
+    }
+    
+.button {
+    text-align:right;
+    margin:10px 0 30px 0;
+    }
+    
+.txt_10 {
+    font-size:10px;
+    }
+.clear{clear:both;}
+.clearfix{
+    zoom:1;/*for IE 5.5-7*/
+}
+
+.clearfix:after{/*for modern browser*/
+    content:".";
+    display: block;
+    height:0px;
+    clear:both;
+    line-height:0;
+    visibility:hidden;
+}
+
+img.m{
+    vertical-align:middle;
+}

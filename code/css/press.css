@@ -1,0 +1,64 @@
+div.press{
+    text-align:left;
+}
+
+div.press dl{
+    margin:5px 0px 0px 5px;
+}
+
+div.press dt.title{
+    font-size:13px;
+    font-weight:bold;
+    text-align:center;
+}
+
+div.press dt.subtitle{
+    text-align:left;
+    font-weight:bold;
+    background: url(/img/indent.gif) left top no-repeat;
+    padding-left:15px;
+    margin-top:5px;
+    margin-bottom:5px;
+    display: block;
+    font-size: 13px;
+}
+
+div.press dd.right{
+    margin:5px 0px;
+    text-align:right;
+}
+
+div.press table.ranking{
+    border-collapse: collapse;
+    margin:0px;
+    padding:0px;
+    margin-left:10px;
+    border: double #CCCCCC 4px;
+}
+
+div.press table.ranking tr{
+    border-collapse: collapse;
+    margin:0px;
+    padding:0px;
+}
+
+div.press table.ranking td{
+    border-collapse: collapse;
+    margin:0px;
+    padding:0px;
+}
+
+div.press table.ranking th{
+    font-weight:normal;
+    background-color:#CC99FF;
+    text-align: center;
+    border-bottom: solid #CCCCCC 1px;
+    border-left: solid #CCCCCC 1px;
+    padding:2px;
+}
+div.press table.ranking td{
+    text-align: center;
+    border-bottom: solid #CCCCCC 1px;
+    border-left: solid #CCCCCC 1px;
+    padding:2px;
+}
