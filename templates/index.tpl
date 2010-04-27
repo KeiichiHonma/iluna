@@ -26,9 +26,9 @@
                 <li class="index">事業内容</li>
                 <li>インターネットを使ったビジネスの企画・開発・運営</li>
                 <li class="index">連絡先</li>
-                <li>電話：03-5436-6508（代表）<br />FAX：03-5436-0860<br />メール：{mailto address="info@iluna.co.jp" encode="hex" text="info@iluna.co.jp"}</li>
+                <li>電話：03-6687-0737（代表）<br />FAX：03-6687-0710<br />メール：{mailto address="info@iluna.co.jp" encode="hex" text="info@iluna.co.jp"}</li>
                 <li class="index">所在地</li>
-                <li>〒155-0031<br />東京都品川区西五反田8-4-15<br />オカジマビル7F</li>
+                <li>〒151-0053<br />東京都渋谷区代々木4-31-4<br />キャッスル新宿802号</li>
                 <li class="index">代表</li>
                 <li>最高経営責任者 矢作 嘉男</li>
                 </ul>

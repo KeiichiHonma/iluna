@@ -32,9 +32,9 @@
                     </tr>
                     <tr>
                     <th>所在地<br />連絡先</th>
-                    <td>〒155-0031</p>
-                    <p>東京都品川区西五反田8-4-15<br />オカジマビル7F</p>
-                    <p>Tel&nbsp;:&nbsp;03-5436-6508<br />Fax:&nbsp;03-5436-0860</p>
+                    <td>〒151-0053</p>
+                    <p>東京都渋谷区代々木4-31-4<br />キャッスル新宿802号</p>
+                    <p>Tel&nbsp;:&nbsp;03-6687-0737<br />Fax:&nbsp;03-6687-0710</p>
                     <p>URL:&nbsp;<a href="http://www.iluna.co.jp/">http://www.iluna.co.jp/</a></p>
                     <p>Mail:&nbsp;{mailto address="info@iluna.co.jp" encode="hex" text="info@iluna.co.jp"}</td>
                     </tr>
