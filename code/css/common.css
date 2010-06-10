@@ -75,7 +75,7 @@ div#side_l {
 }
 
 div#contents {
-    width:485px;
+    width:545px;
     float:left;
     }
 
@@ -160,7 +160,7 @@ div#foot a:active {
     }
 div#bottom_right{
     float:left;
-    width:475px;
+    width:535px;
     height:100%;
     /*background: url(/img/bg4.png) no-repeat left top;*/
     padding:5px;

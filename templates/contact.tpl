@@ -1,4 +1,4 @@
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Tr ansitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
@@ -18,13 +18,13 @@
         </div>
         
         <div id="contents">
-            <img src="/img/contact_picture.jpg" width="485" height="131" alt="" /><img src="/img/bg4.png" width="485" height="13" class="alphafilter" alt="" />
+            <img src="/img/contact_picture.jpg" width="545" height="131" alt="" /><img src="/img/bg4.png" width="545" height="13" class="alphafilter" alt="" />
             <div id="bottom_right">
                 <h2 class="title">アライアンス</h2>
                 イルナでは各パートナー様とのアライアンスを推進しております。<br />
-                新規事業の立ち上げにお悩みの方、コンテンツの活用が上手くされていない方、レベニューシェアを模索されている方等、 ぜひ一度イルナまでご相談下さい。 
+                新規事業の立ち上げにお悩みの方、コンテンツの活用が上手くされていない方、レベニューシェアを模索されている方等、 ぜひ一度イルナまでご相談下さい。
                 <h2 class="title">お問い合わせ</h2>
-                お問い合わせは、{mailto address="info@iluna.co.jp" encode="hex" text="info@iluna.co.jp"}までメールをお願い致します。 
+                お問い合わせは、{mailto address="info@iluna.co.jp" encode="hex" text="info@iluna.co.jp"}までメールをお願い致します。
             </div>
         </div>
     </div>

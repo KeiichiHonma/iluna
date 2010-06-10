@@ -18,7 +18,7 @@
         </div>
         
         <div id="contents">
-            <img src="/img/top_picture.jpg" width="485" height="131" alt="" />
+            <img src="/img/top_picture.jpg" width="545" height="131" alt="" />
             <div id="bottom_right1">
                 <ul class="corp">
                 <li class="index">社名</li>

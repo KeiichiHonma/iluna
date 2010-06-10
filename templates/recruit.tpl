@@ -18,7 +18,7 @@
         </div>
         
         <div id="contents">
-            <img src="/img/recruit_picture.jpg" width="485" height="131" alt="" /><img src="/img/bg4.png" width="485" height="13" class="alphafilter" alt="" />
+            <img src="/img/recruit_picture.jpg" width="545" height="131" alt="" /><img src="/img/bg4.png" width="545" height="13" class="alphafilter" alt="" />
             <div id="bottom_right">
                 <h2 class="title">採用情報</h2>
                 現在新規採用を実施しておりません。

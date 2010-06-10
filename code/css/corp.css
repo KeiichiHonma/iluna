@@ -1,5 +1,5 @@
 table.iluna {
-    width:480px;
+    width:540px;
     padding:0px:
     table-layout: fixed;
     empty-cells: show;
@@ -23,14 +23,14 @@ table.iluna td{
 }
 
 div.about{
-    width:475px;
+    width:535px;
     clear:both;
     margin-bottom:5px;
     padding:5px 0px 0px 5px;
 }
 
 div.about p{
-    width: 480px;
+    width: 540px;
     text-align:right;
 }
 

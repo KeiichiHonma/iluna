@@ -23,7 +23,7 @@
         </div>
         
         <div id="contents">
-            <img src="/img/press_picture.jpg" width="485" height="131" alt="" /><img src="/img/bg4.png" width="485" height="13" class="alphafilter" alt="" />
+            <img src="/img/press_picture.jpg" width="545" height="131" alt="" /><img src="/img/bg4.png" width="545" height="13" class="alphafilter" alt="" />
             <div id="bottom_right">
                 {if $press}
                 {include file="include/press/`$date_y`/`$date_md`.inc"}

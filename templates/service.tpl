@@ -18,7 +18,7 @@
         </div>
         
         <div id="contents">
-            <img src="/img/service_picture.jpg" width="485" height="131" alt="" /><img src="/img/bg4.png" width="485" height="13" class="alphafilter" alt="" />
+            <img src="/img/service_picture.jpg" width="545" height="131" alt="" /><img src="/img/bg4.png" width="545" height="13" class="alphafilter" alt="" />
             <div id="bottom_right">
                 <h2 class="title">提供サービス</h2>
                 <div class="service clearfix">

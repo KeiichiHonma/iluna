@@ -1,5 +1,5 @@
 div.service{
-    width:475px;
+    width:535px;
     clear:both;
     border-bottom:1px dotted #cccccc;
     margin-bottom:5px;
@@ -12,6 +12,6 @@ div.logo{
 }
 
 div.text{
-    width:251px;
+    width:311px;
     float:left;
 }
