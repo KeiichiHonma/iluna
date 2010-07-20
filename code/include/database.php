@@ -255,8 +255,6 @@ class database
 
         if($ini['common']['isDebug'] == 1){//on
             $param = serialize($data);
-var_dump($data);
-die();
             $this->redirectPage('/system/error.html?error='.urlencode($param));
             //var_dump($this->err);
             exit;
@@ -264,8 +262,6 @@ die();
             //$data['str'] = "現在サーバーが混んでいます。\n時間を置いて再度実行して下さい。";
             //header( "HTTP/1.1 301 Moved Permanently" );
             $param = serialize($data);
-var_dump($data);
-die();
             $this->redirectPage('/system/error.html?error='.urlencode($param));
             //header("Location: ".URL.'/error.html');
             exit;
@@ -280,7 +276,7 @@ die();
         $from = $mail;//from
         $reply = $mail;//返信先
         
-        $title = 'YAKINIKU:DBエラー'.$this->err['num'];
+        $title = 'ILUNA:DBエラー'.$this->err['num'];
         $body = '';
         if(is_array($this->err['str'])){
             foreach($this->err['str'] as $key => $val){

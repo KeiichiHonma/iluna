@@ -3,6 +3,11 @@ require_once($_SERVER['DOCUMENT_ROOT'].'/include/prepend.php');
 
 $nid = $base->getPathVal('nid');
 
+if(!$nid){
+    $base->redirectPage('/');
+    die();
+}
+
 //プレスリリース
 $press = $base->getOneNews($nid);
 if($press){

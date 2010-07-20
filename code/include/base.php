@@ -202,7 +202,7 @@ class base extends database
     }
     
     function getPathVal($key){
-        if(@array_key_exists($key,$this->ary_path_info)){
+        if(@array_key_exists($key,$this->ary_path_info) && strlen($this->ary_path_info[$key]) > 0){
             return $this->ary_path_info[$key];
         }else{
             return FALSE;
