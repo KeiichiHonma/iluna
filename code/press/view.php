@@ -3,7 +3,7 @@ require_once($_SERVER['DOCUMENT_ROOT'].'/include/prepend.php');
 
 $nid = $base->getPathVal('nid');
 
-if(!$nid){
+if(!$nid || !is_numeric($nid)){
     $base->redirectPage('/');
     die();
 }
