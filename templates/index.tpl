@@ -18,7 +18,7 @@
         </div>
         
         <div id="contents">
-            <img src="/img/top_picture.jpg" width="545" height="131" alt="" />
+            <a href="/kujapan/contact"><img src="/img/kujapan/kujapan_contact.gif" width="545" height="131" alt="" /></a>
             <div id="bottom_right1">
                 <ul class="corp">
                 <li class="index">社名</li>

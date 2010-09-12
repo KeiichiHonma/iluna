@@ -16,4 +16,9 @@ if($ini['common']['isDebug'] == 1){
 }else{
     $base->t->assign('debug',FALSE);
 }
+$pm = FALSE;//postフラグ
+if(strcasecmp($_SERVER['REQUEST_METHOD'],'POST') === 0){
+    $pm = TRUE;
+}
+
 ?>

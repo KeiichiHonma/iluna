@@ -1,0 +1,119 @@
+#contact_top{
+    clear:both;
+}
+
+span.hissu{
+    color: #FF0000;
+}
+
+#contact_top span.help{
+    font-weight:normal;
+    font-size:11px;
+}
+
+#contact_top div.subblock{
+    /*border: solid #CCCCCC 1px;*/
+    margin-top: 0px;
+    padding:5px 0px 0px 30px;
+}
+
+#contact_top div.subblock ul{
+    margin: 0px;
+    padding:0px;
+}
+
+#contact_top div.subblock img{
+    margin-right:20px;
+    vertical-align: middle;
+}
+
+#contact_top div.subblock div.logo{
+    width:100px;
+    float:left;
+}
+
+#contact_top div.subblock div.text{
+    width:405px;
+    float:left;
+}
+
+#contact_top div.subblock div.flow_ttl{
+    margin:10px 0px;
+}
+
+#contact_top div.subblock div.flow{
+    width:490px;
+    border: solid #CCCCCC 1px;
+    margin:0px 15px 10px 0px;
+    padding:10px;
+}
+
+#contact_top div.subblock div.arrow{
+    width:490px;
+    text-align:center;
+    margin:0px 15px 10px 0px;
+}
+
+
+#contact_top div.result{
+    margin-top: 15px;
+}
+
+#contact_top div.contact{
+    font-family:Osaka,"ＭＳ Ｐゴシック",Verdana,,palatino, georgia;
+    margin-top: 5px;
+}
+
+#contact_top table.contact{
+    width:540px;
+    background-color: #CCCCCC;
+}
+
+#contact_top table.contact td{
+    padding:5px;
+}
+
+
+#contact_top table.contact td.form_ttl{
+    width:150px;
+    background-color: #F5F5F4;
+    border-top:1px solid #FFFFFF;
+    border-left:1px solid #FFFFFF;
+}
+
+#contact_top table.contact td.form_data{
+    background-color: #FFFFFF;
+}
+
+#contact_top table.contact td.common_ttl{
+    font-size:12px;
+    width:150px;
+    background-color: #F5F5F4;
+    border-top:1px solid #FFFFFF;
+    border-left:1px solid #FFFFFF;
+}
+
+#contact_top table.contact td.common_data{
+    font-size:12px;
+    background-color: #FFFFFF;
+}
+
+#contact_top table.contact p.example{
+    font-size:11px;
+    padding:3px 0px 0px 0px;
+}
+
+#contact_top div.contact .form_submit{
+    margin-top:10px;
+    width:540px;
+    text-align:center;
+}
+
+#contact_top div.contact .common_text{
+    width:340px;
+}
+
+#contact_top div.contact .detail{
+    width:340px;
+    height:120px;
+}

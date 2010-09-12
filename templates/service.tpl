@@ -22,6 +22,11 @@
             <div id="bottom_right">
                 <h2 class="title">提供サービス</h2>
                 <div class="service clearfix">
+                    <div class="logo"><img src="/img/service/kujapan_logo.gif" width="214" height="55" alt="日游酷棒" /></div>
+                    <div class="text">日遊酷棒（リョウヨウ クーバン）≪10月スタート≫<br />中国人観光客集客のためのクーポンサイトです。インバウンド対策にご活用下さい。<br /><a href="/kujapan/contact">お問い合わせはこちら</a></div>
+                </div>
+
+                <div class="service clearfix">
                     <div class="logo"><a href="http://www.oshiete-ca.com/" target="blank"><img src="/img/service/oshiete_logo.gif" width="214" height="55" alt="教えてCA！" /></a></div>
                     <div class="text"><a href="http://www.oshiete-ca.com/" target="blank">教えてCA！</a><br />親切な先輩CAが本気でCAになりたいあなたの疑問に答えてくれるQ&amp;Aサイトです。</div>
                 </div>
