@@ -8,38 +8,26 @@ define('ILUNAURL',            'http://'.$_SERVER['SERVER_NAME']);
 define('ILUNAURLSSL',         'http://'.$_SERVER['SERVER_NAME']);//sslページは存在しない
 class base extends database 
 {
-
-    function &static_getInstance()
-    {
-        static $_instance = null;
-        if ( is_null( $_instance ) )
-        {
-            $_instance = new base();
-        }
-        return $_instance;
-    }
-
     //smarty
-    var $t;
+    public $t;
 
     //common
-    var $SJIS            = "SJIS";
-    var $EUC            = "EUC-JP";
-    var $UTF8            = "UTF-8";
+    public $SJIS            = "SJIS";
+    public $EUC            = "EUC-JP";
+    public $UTF8            = "UTF-8";
     
-    //var $session_name   = "JOBSESSID";
-    var $session_name_system   = "ILUNASSID";
+    public $session_name_system   = "ILUNASSID";
     
-    var $cookie_time    = 86400;
-    var $cookie_path    = "/";
+    public $cookie_time    = 86400;
+    public $cookie_path    = "/";
 
     //--戻り値
-    var $ret;
+    public $ret;
     //--エラー
-    var $err = array();
+    public $err = array();
     
     //パスインフォ
-    var $ary_path_info = array();
+    public $ary_path_info = array();
 
     function getTemplate(){
         require_once('smarty/Smarty.class.php');
@@ -181,9 +169,9 @@ class base extends database
         $this->err['str'] = "";
     }
 
-    var $path_info = '';
-    var $path_sp = '';
-    var $isSp = FALSE;//検索系
+    public $path_info = '';
+    public $path_sp = '';
+    public $isSp = FALSE;//検索系
     
     function getPathInfo(){
         $this->path_info = @$_SERVER['PATH_INFO'];
@@ -209,14 +197,13 @@ class base extends database
         }
     }
 
-    var $isSp = FALSE;//検索系
-    var $sp_value = 10;
-    var $index_section_number = 5;
+    public $sp_value = 10;
+    public $index_section_number = 5;
 
-    var $sp_manager = array();
-    var $sp_limit = array();//limit使用
-    var $bl_next = FALSE;
-    var $block_int = 0;
+    public $sp_manager = array();
+    public $sp_limit = array();//limit使用
+    public $bl_next = FALSE;
+    public $block_int = 0;
 
     function changeSpValue($value = 20){
         $this->sp_value = $value;
@@ -381,7 +368,7 @@ class base extends database
     }
 
     function getValidateNews($from = null,$to = null){
-        $before = $timestamp = strtotime("-12 month");
+        $before = $timestamp = strtotime("-6 month");
         $condition = 'col_date >' .$before;
         return $this->getNews($from,$to,$condition);
     }

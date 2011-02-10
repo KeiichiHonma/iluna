@@ -7,6 +7,8 @@
     {$value.col_date|make_news_judge_new}<a href="{$smarty.const.ILUNAURL}/press/view/nid/{$value._id}">{$value.col_title}</a>
 {elseif $value.col_link == 0 && isset($value.col_url)}
     {$value.col_date|make_news_judge_new}<a href="{$value.col_url}" {if $value.col_target == 0}target="_blank"{/if}>{$value.col_title}</a>
+{else}
+    {$value.col_date|make_news_judge_new}{$value.col_title}
 {/if}
 
 </li>

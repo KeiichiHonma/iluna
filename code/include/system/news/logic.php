@@ -2,17 +2,7 @@
 require_once('database.php');
 class systemNewsLogic extends database
 {
-    function &static_getInstance()
-    {
-        static $_instance = null;
-        if ( is_null( $_instance ) )
-        {
-            $_instance = new systemNewsLogic();
-        }
-        return $_instance;
-    }
-    
-    var $error = array();
+    public $error = array();
 
     function checkMust($key){
         if($_POST[$key] == ''){

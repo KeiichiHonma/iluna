@@ -22,8 +22,13 @@
             <div id="bottom_right">
                 <h2 class="title">提供サービス</h2>
                 <div class="service clearfix">
-                    <div class="logo"><img src="/img/service/kujapan_logo.gif" width="214" height="55" alt="日游酷棒" /></div>
-                    <div class="text">日遊酷棒（リョウヨウ クーバン）≪10月スタート≫<br />中国人観光客集客のためのクーポンサイトです。インバウンド対策にご活用下さい。<br /><a href="/kujapan/contact">お問い合わせはこちら</a></div>
+                    <img src="/img/service/kujapan_logo.gif" width="545" height="140" alt="日游酷棒" />
+                    日遊酷棒（リーヨウクーバン）<br />
+                    <a href="http://www.kujapan.com/" target="blank">中国本土向け日遊酷棒</a><br />
+                    <a href="http://www.kujapan.net/" target="blank">台湾・香港向け日遊酷棒</a><br />
+中国人観光客が日本でお買い物をする際に割引されるクーポンが99元（約1,200円）で取り放題のサイトです。事前にサイト内のクーポンをプリントアウトし対象店舗で提示するとクーポンに表示された条件で割引を受けることができます。<br />
+中国人観光客を取り込みたい企業様はインバウンド対策にご活用下さい。<br />
+                    <a href="https://www.kujapan.net/inquiry/input" target="blank">お問い合わせはこちら</a>
                 </div>
 
                 <div class="service clearfix">

@@ -67,7 +67,7 @@
 
         <tr>
         <td width="150" valign="top">リンク？<span class="attention">＊</span></td>
-        <td valign="top"><input type="radio" id="link_0" name="link" value="0" class="" checked /><label for="link_0">リンクする</label>&nbsp;<input type="radio" id="link_1" name="link" value="1" class=""  /><label for="link_1">リンクしない</label>&nbsp;</td>
+        <td valign="top"><input type="radio" id="link_0" name="link" value="0" class=""{if strcasecmp($smarty.post.link,0) == 0} checked{/if} /><label for="link_0">リンクする</label>&nbsp;<input type="radio" id="link_1" name="link" value="1" class=""{if strcasecmp($smarty.post.link,1) == 0} checked{/if} /><label for="link_1">リンクしない</label>&nbsp;</td>
         </tr>
 
         <tr>
@@ -77,12 +77,12 @@
 
         <tr>
         <td width="150" valign="top">ターゲット属性<span class="attention">＊</span></td>
-        <td valign="top"><input type="radio" id="target_0" name="target" value="0" class="" /><label for="target_0">別窓にする</label>&nbsp;<input type="radio" id="target_1" name="target" value="1" class="" checked /><label for="target_1">別窓にしない</label>&nbsp;</td>
+        <td valign="top"><input type="radio" id="target_0" name="target" value="0" class=""{if strcasecmp($smarty.post.target,0) == 0} checked{/if} /><label for="target_0">別窓にする</label>&nbsp;<input type="radio" id="target_1" name="target" value="1" class=""{if strcasecmp($smarty.post.target,1) == 0} checked{/if} /><label for="target_1">別窓にしない</label>&nbsp;</td>
         </tr>
 
         <tr>
         <td width="150" valign="top">プレスリリース？<span class="attention">＊</span></td>
-        <td valign="top"><input type="radio" id="press_0" name="press" value="0" class="" /><label for="press_0">プレスリリース</label>&nbsp;<input type="radio" id="press_1" name="press" value="1" class="" checked /><label for="press_1">プレスリリースではない</label>&nbsp;</td>
+        <td valign="top"><input type="radio" id="press_0" name="press" value="0" class=""{if strcasecmp($smarty.post.press,0) == 0} checked{/if} /><label for="press_0">プレスリリース</label>&nbsp;<input type="radio" id="press_1" name="press" value="1" class=""{if strcasecmp($smarty.post.press,1) == 0} checked{/if} /><label for="press_1">プレスリリースではない</label>&nbsp;</td>
         </tr>
 
         <tr>

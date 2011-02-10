@@ -27,3 +27,35 @@ div#bottom_right2{
     padding:5px;
     line-height:160%;
 }
+
+div#special_text{
+    text-align:center;
+    line-height:150%;
+    margin:10px 0px 10px 0px;
+}
+
+div#special_btn{
+    text-align:center;
+    margin:10px 0px 10px 0px;
+}
+
+div.special_text_media{
+    text-align:center;
+    line-height:150%;
+    padding:10px 0px 0px 0px;
+    margin:10px 0px 10px 0px;
+    border-top:1px dotted #cccccc;
+}
+
+div.special_text_media img{
+    border:1px solid #FFF1B3;
+}
+
+table#tv td{
+    padding:5px;
+}
+
+table#tv td img{
+    border:1px solid #FFF1B3;
+}
+

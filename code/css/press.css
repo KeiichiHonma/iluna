@@ -28,6 +28,10 @@ div.press dd.right{
     text-align:right;
 }
 
+div.press dd .under{
+    text-decoration:underline;
+}
+
 div.press table.ranking{
     border-collapse: collapse;
     margin:0px;

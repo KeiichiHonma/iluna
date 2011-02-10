@@ -16,7 +16,13 @@
 <h2>エラーが発生しました。</h2>
 <div>
 {foreach from=$errorlist key="key" item="value" name="errorlist"}
-{$value}<br />
+{if $key == "str" && is_array($value)}
+{foreach from=$value key="key2" item="value2" name="errorlist2"}
+{$value2|nl2br}<br />
+{/foreach}
+{else}
+{$value|nl2br}<br />
+{/if}
 {/foreach}
 </div>
     </div>

@@ -1,12 +1,14 @@
 <?php
-set_include_path($_SERVER['DOCUMENT_ROOT'].'/include/');
-
+//set_include_path($_SERVER['DOCUMENT_ROOT'].'/include/');
+//set_include_path('include/');
+//die();
 define('SETTING_INI',        'setting.ini' );
 header("Content-type: text/html; charset=utf-8");
-$ini = parse_ini_file(get_include_path().SETTING_INI, true);
+$ini = parse_ini_file(get_include_path().'/'.SETTING_INI, true);
 //--[ require ]--------------------------------------------------------------
 require_once('base.php');
-$base =& base::static_getInstance();
+$base = new base();
+
 //--[ DB接続 ]------------------------------------------------------------------
 $base->connect();
 $base->getTemplate();

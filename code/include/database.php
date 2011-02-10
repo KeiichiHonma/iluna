@@ -29,29 +29,17 @@ define('A_NEWS',    'N');
 //require_once('smarty_class.php');
 class database
 {
-    function &static_getInstance()
-    {
-        static $_instance = null;
-        if ( is_null( $_instance ) )
-        {
-            $_instance = new database();
-        }
-        return $_instance;
-    }
-
     //DB
-    var $strDBName        = "iluna";
-    var $strHostName    = "localhost";
-    var $strPort        = "3306";
-    var $strUser;
-    var $strPass;
-    var $strUser        = "db_sqlip";
-    var $strPass        = "kyeoisihcihoi";
-    var $arySQLData;
-    var $strErrMsg        = "";
-    var $intResultRows  = 0;
-    var $intResultCols  = 0;
-    var $api_db_error = FALSE;
+    public $strDBName        = "iluna";
+    public $strHostName    = "localhost";
+    public $strPort        = "3306";
+    public $strUser        = "db_hera_iluna";
+    public $strPass        = "kyeoisihcihoi";
+    public $arySQLData;
+    public $strErrMsg        = "";
+    public $intResultRows  = 0;
+    public $intResultCols  = 0;
+    public $api_db_error = FALSE;
     
     //------------------------------------------------------
     // コンストラクタ(db_define)：再定義用
@@ -149,9 +137,9 @@ class database
         //return $blnStatus;
     }
     
-    //var $isChangeKey = FALSE;
-    var $isChangeKey = array(FALSE,DATABASE_OID_NAME);
-    //var $changeKeyValue = DATABASE_OID_NAME;
+    //public $isChangeKey = FALSE;
+    public $isChangeKey = array(FALSE,DATABASE_OID_NAME);
+    //public $changeKeyValue = DATABASE_OID_NAME;
     
     function changeKey($column = DATABASE_OID_NAME){
         $this->isChangeKey = array(TRUE,$column);
@@ -249,23 +237,28 @@ class database
             $data['lev'] = 999;
             $data['str'] = "原因不明エラーです。";
         }
-        
-        //発生したエラーをメールで通知
-        if($ini['common']['isMail'] == 1 && isset($ini['common']['mail'])) $this->sendMail($ini['common']['mail']);
 
         if($ini['common']['isDebug'] == 1){//on
-            $param = serialize($data);
-            $this->redirectPage('/system/error.html?error='.urlencode($param));
-            //var_dump($this->err);
-            exit;
+            $mail = 'honma@zeus.corp.iluna.co.jp';
         }else{//user向け
-            //$data['str'] = "現在サーバーが混んでいます。\n時間を置いて再度実行して下さい。";
-            //header( "HTTP/1.1 301 Moved Permanently" );
-            $param = serialize($data);
-            $this->redirectPage('/system/error.html?error='.urlencode($param));
-            //header("Location: ".URL.'/error.html');
-            exit;
+            $mail = 'halt@iluna.co.jp';
         }
+
+        //発生したエラーをメールで通知
+        if($ini['common']['isMail'] == 1){
+            $this->sendMail($mail);
+        }
+
+        if($ini['common']['isDebug'] == 1){//on
+            $this->t->assign('errorlist', $data);
+            $this->t->display('error.tpl');
+            die();
+        }else{//user向け
+            $base->redirectPage('/');
+            die();
+        }
+
+
 
     }
     
@@ -295,64 +288,64 @@ class database
     }
 
     // Search
-    var $_select_columns = array();
+    public $_select_columns = array();
     
     /**
      * @access private
      */
-    var $_join_tables = array();    // for JOIN table
+    public $_join_tables = array();    // for JOIN table
     /**
      * @access private
      */
-    var $_conditions = array(); // condition clauses for AND
+    public $_conditions = array(); // condition clauses for AND
     /**
      * @access private
      */
-    var $_orderby = array();    // for sorting
+    public $_orderby = array();    // for sorting
     /**
      * @access private
      */
-    var $_offset = 0;           // for LIMIT
+    public $_offset = 0;           // for LIMIT
     /**
      * @access private
      */
-    var $_limit = -1;           // for LIMIT
+    public $_limit = -1;           // for LIMIT
     /**
      * @access private
      */
-    var $_calcAll = FALSE;      // use SQL_CALC_FOUND_ROWS
+    public $_calcAll = FALSE;      // use SQL_CALC_FOUND_ROWS
     /**
      * @access private
      */
-    var $_foundrows = FALSE;        // result of SQL_CALC_FOUND_ROWS
+    public $_foundrows = FALSE;        // result of SQL_CALC_FOUND_ROWS
     /**
      * @access private
      */
-    var $_lock = DATABASE_DEFAULT_LOCK;
+    public $_lock = DATABASE_DEFAULT_LOCK;
     /**
      * @access private
      */
-    var $_select = TRUE;
+    public $_select = TRUE;
     /**
      * @access private
      */
-    var $_oid_only = FALSE;
+    public $_oid_only = FALSE;
     /**
      * @access private
      */
-    var $_group_functions = NULL;
+    public $_group_functions = NULL;
     /**
      * @access private
      */
-    var $_group_by_columns = array();
+    public $_group_by_columns = array();
     /**
      * @access private
      */
-    var $_having = '';
+    public $_having = '';
     /**
      * @access private
      */
-    var $_alias = NULL;
+    public $_alias = NULL;
 
     function initializeQuery(){
         $this->_select_columns = array();
@@ -451,8 +444,8 @@ class database
         $this->_offset = $offset;
         $this->_limit = $limit;
     }
-    var $found = FALSE;
-    var $rows = 0;
+    public $found = FALSE;
+    public $rows = 0;
     
     function select($table,$alias = NULL){
         $query = "SELECT ";
@@ -624,7 +617,7 @@ class database
 
     }
 
-    var $_values = array();
+    public $_values = array();
 
     function addValue($values){
         $this->_values = $values;

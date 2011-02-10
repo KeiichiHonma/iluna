@@ -18,33 +18,68 @@
         </div>
         
         <div id="contents">
-            <img src="/img/top_picture.jpg" width="545" height="131" alt="" />
-            <div id="bottom_right1">
-                <ul class="corp">
-                <li class="index">社名</li>
-                <li>株式会社イルナ( iLUNA, Inc. )</li>
-                <li class="index">事業内容</li>
-                <li>インターネットを使ったビジネスの企画・開発・運営</li>
-                <li class="index">連絡先</li>
-                <li>電話：03-6687-0737（代表）<br />FAX：03-6687-0710<br />メール：{mailto address="info@iluna.co.jp" encode="hex" text="info@iluna.co.jp"}</li>
-                <li class="index">所在地</li>
-                <li>〒151-0053<br />東京都渋谷区代々木4-31-4<br />キャッスル新宿802号</li>
-                <li class="index">代表</li>
-                <li>最高経営責任者 矢作 嘉男</li>
-                </ul>
+            <img src="/img/kujapan/top_kujapan_picture.jpg" width="545" height="200" alt="" />
+            <div id="special_text">
+            <a href="http://www.kujapan.com/" target="blank">中国本土向け（簡体字）：http://www.kujapan.com/</a><br />
+            <a href="http://www.kujapan.net/" target="blank">台湾：香港向け（繁体字）：http://www.kujapan.net/</a><br />
+            訪日中国人観光客が買い物の際に対象店舗で割引サービスを受ける<br />
+            ことができる、クーポンが取り放題のサイト『日遊酷棒（リーヨウクーバン）』<br />
+            2010年12月21日（火）より開始！
             </div>
-            <div id="bottom_right2">
-                私たちは以下のことを大切にしながら事業運営を行っています。<br /><br />
-                <ul>
-                <li class="index">全ての利害関係者に適正なメリットを。</li>
-                <li class="index">コンセプトは明確でシンプルに。</li>
-                <li class="index">どこかに1点必ずユニークさを。</li>
-                <li class="index">変化を恐れず、変化に柔軟に。</li>
-                <li class="index">テクノロジーの理解すれど行き過ぎない。</li>
-                <li class="index">それは正しいか＆必要かを常に自問。</li>
-                </ul>
-                <br />イルナは世の中にありそうでなかった、あったけれど痒いところに手が届いていなかった・・・<br />
-                そのような課題を抱えている業界に対して、最適な選択肢となるようなサービスを提供することを目指しています。
+            <img src="/img/kujapan/top_kujapan_shop.jpg" width="545" height="110" alt="" />
+
+            <div class="special_text_media">
+<b>テレビ東京 「ワールドビジネスサテライト（WBS）」</b><br />
+2011年2月2日、旧正月で日本を訪れる中国人観光客に対して新たなインバウンド<br />
+サービスとして弊社の「日遊酷棒」が注目のサービスとして取り上げられました。
+            </div>
+            <table id="tv">
+            <tr>
+            <td>
+            <img src="/img/kujapan/tv1.jpg" width="320" height="180" alt="" />
+            </td>
+            <td>
+99元（約1,200円）の会費で90日間クーポンが取り放題
+            </td>
+            </tr>
+
+            <tr>
+            <td>
+            <img src="/img/kujapan/tv2.jpg" width="320" height="180" alt="" />
+            </td>
+            <td>
+夏までにクーポン提供200店に拡大<br />年間で10万人の利用を目指す
+            </td>
+            </tr>
+
+            <tr>
+            <td>
+            <img src="/img/kujapan/tv3.jpg" width="320" height="180" alt="" />
+            </td>
+            <td>
+中国人はお得なものや割引を好む傾向がある
+            </td>
+            </tr>
+
+            <tr>
+            <td>
+            <img src="/img/kujapan/tv4.jpg" width="320" height="180" alt="" />
+            </td>
+            <td>
+春節商戦はじまる割引クーポンサイト
+            </td>
+            </tr>
+            </table>
+
+            <div class="special_text_media">
+<b>産経新聞朝刊</b><br />
+2011年1月31日、訪日中国人客向けクーポン事業拡大として<br />
+弊社の「日遊酷棒」が注目のサービスとして取り上げられました。<br />
+<img src="/img/kujapan/news_paper.jpg" width="542" height="405" alt="" />
+            </div>
+
+            <div id="special_btn">
+                <a href="https://www.kujapan.net/inquiry/input" target="blank"><img src="/img/kujapan/b_inquiry.gif" width="156" height="36" alt="" /><br /></a>
             </div>
         </div>
     </div>

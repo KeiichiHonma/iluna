@@ -16,7 +16,8 @@
         <div id="side_l">
         <h2 class="title">プレスリリース</h2>
         <ul>
-        <li class="index_line">{if $year == 2010}2010年{else}<a href="{$smarty.const.ILUNAURL}/press/">2010年</a>{/if}</li>
+        <li class="index_line">{if $year == 2011}2011年{else}<a href="{$smarty.const.ILUNAURL}/press/">2011年</a>{/if}</li>
+        <li class="index_line">{if $year == 2010}2010年{else}<a href="{$smarty.const.ILUNAURL}/press/index/year/2010">2010年</a>{/if}</li>
         <li class="index_line">{if $year == 2009}2009年{else}<a href="{$smarty.const.ILUNAURL}/press/index/year/2009">2009年</a>{/if}</li>
         <li class="index_line">{if $year == 2008}2008年{else}<a href="{$smarty.const.ILUNAURL}/press/index/year/2008">2008年</a>{/if}</li>
         </ul>
