@@ -3,7 +3,7 @@ require_once($_SERVER['DOCUMENT_ROOT'].'/include/system/prepend.php');
 
 if ( strcasecmp($_SERVER['REQUEST_METHOD'],'POST') == 0 && is_numeric($_POST['nid'])){
     require_once('system/news/logic.php');
-    $systemNewsLogic =& systemNewsLogic::static_getInstance();
+    $systemNewsLogic = new systemNewsLogic();
     
     $systemNewsLogic->dropNews($_POST['nid']);
     $base->commit();

@@ -3,7 +3,7 @@ require_once($_SERVER['DOCUMENT_ROOT'].'/include/system/prepend.php');
 
 if ( strcasecmp($_SERVER['REQUEST_METHOD'],'POST') == 0){
     require_once('system/news/logic.php');
-    $systemNewsLogic =& systemNewsLogic::static_getInstance();
+    $systemNewsLogic = new systemNewsLogic();
     
     $_POST['date'] = mktime(0, 0, 0, $_POST['date_Month'],$_POST['date_Day'],$_POST['date_Year']);
     if($systemNewsLogic->checkParam()){
