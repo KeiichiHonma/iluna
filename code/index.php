@@ -9,4 +9,5 @@ $base->t->assign('news',$news);
 $base->t->assign('gnavi','index');
 $base->t->assign('h1','ホーム');
 $base->t->display('index.tpl');
+test
 ?>
