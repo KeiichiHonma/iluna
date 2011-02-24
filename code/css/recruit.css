@@ -1,1 +1,30 @@
+p.recruit{
+    margin-top:10px;
+}
 
+#bottom_right .rectuit-top
+{
+background-color: transparent;
+background-image: url("/img/recruit/top.gif");
+background-repeat: no-repeat;
+background-attachment: scroll;
+background-position: left top;
+padding-top: 14px;
+}
+
+#bottom_right .rectuit-body{
+    padding:0px 10px 0px 10px;
+    border-left:2px solid #A572D3;
+    border-right:2px solid #A572D3;
+}
+
+
+#bottom_right .rectuit-bottom
+{
+    background-color: transparent;
+    background-image: url("/img/recruit/bottom.gif");
+    background-repeat: no-repeat;
+    background-attachment: scroll;
+    background-position: left bottom;
+    padding-bottom: 60px;
+}
