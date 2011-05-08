@@ -97,7 +97,7 @@ if ( $pm ){
         $_POST['class'] = '部長';
         $_POST['name'] = '本間圭一';
         $_POST['kana'] = 'ホンマケイイチ';
-        $_POST['mail'] = 'honma@zeus.corp.iluna.co.jp';
+        $_POST['mail'] = 'honma@zeus.corp.813.co.jp';
         $_POST['telephone1'] = '03';
         $_POST['telephone2'] = '6687';
         $_POST['telephone3'] = '0737';
@@ -119,7 +119,7 @@ function sendMail(){
         $mail = 'info@iluna.co.jp';
     }else{
         //debug
-        $mail = 'honma@zeus.corp.iluna.co.jp';
+        $mail = 'honma@zeus.corp.813.co.jp';
     }
     
     

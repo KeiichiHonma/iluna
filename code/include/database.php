@@ -239,7 +239,7 @@ class database
         }
 
         if($ini['common']['isDebug'] == 1){//on
-            $mail = 'honma@zeus.corp.iluna.co.jp';
+            $mail = 'honma@zeus.corp.813.co.jp';
         }else{//user向け
             $mail = 'halt@iluna.co.jp';
         }
